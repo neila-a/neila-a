@@ -7,10 +7,10 @@
   <a href="https://github.com/neila-a" title="Neila's GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api?username=HCLonely&show_icons=true&count_private=true&layout=compact&theme=default">
   </a>
-  <br/>
+  <br/><!-- 
   <a href="https://wakatime.com/@HCLonely" title="Wakatime Stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HCLonely&layout=compact">
-  </a>
+  </a>-->
   <br/>
   <a href="https://github.com/neila-a" title="Most Used Languages">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neila-a&layout=compact&count_private=true&theme=default">

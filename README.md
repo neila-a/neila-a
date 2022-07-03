@@ -10,7 +10,7 @@
   <br/>
   
   <a href="https://wakatime.com/@neila" title="Wakatime Stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=neila&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@neila&layout=compact">
   </a>
   <br/>
   <a href="https://github.com/neila-a" title="Most Used Languages">

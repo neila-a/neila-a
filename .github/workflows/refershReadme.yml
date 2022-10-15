@@ -17,11 +17,12 @@ jobs: # 执行的任务
     - name: Set up NodeJS # 【配置 NodeJS 环境】
       uses: actions/setup-node@v2
       with: # 使用第三方库任务时，传入的参数。由库开发者自定义
-        node-version: '12'
+        node-version: '16'
     - name: Update README # 更新 readme
       env:
         GH_TOKEN: ${{ secrets.ACCESS_TOKEN }} # 秘钥参数
       run: |- # yaml 语法，「|」下面字符串，每个都换行(\n)。「>」下面字符串，每个不换行（变成空格）。「+」保留最后结尾的换行，「-」表示删除最后结尾的换行。
+        npm i
         node index.js
         cat README.md
     - name: Commit and push # 更新 readme

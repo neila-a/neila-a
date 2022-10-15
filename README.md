@@ -9,7 +9,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=neila-a&show_icons=true&count_private=true&layout=compact&theme=default">
   </a>
   <br/>
-  
   <a href="https://wakatime.com/@neila" title="Wakatime Stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@neila&layout=compact">
   </a>

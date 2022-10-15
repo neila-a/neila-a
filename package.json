@@ -1,0 +1,22 @@
+{
+  "name": "neila-a",
+  "version": "1.0.0",
+  "description": "neila's readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neila-a/neila-a.git"
+  },
+  "author": "neila-a",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/neila-a/neila-a/issues"
+  },
+  "homepage": "https://github.com/neila-a/neila-a#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}

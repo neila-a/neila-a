@@ -17,4 +17,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neila-a&layout=compact&count_private=true&theme=default">
   </a>
 </p>
-<h4 align="center">Now is 2022 - 10 - 17, 11:59.</h4>
+<h4 align="center">Today is 2022 - 10 - 17.</h4>
+<p align="center"> (UTC Time) </p>

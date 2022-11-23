@@ -15,7 +15,12 @@
   <br/>
   <a href="https://github.com/neila-a" title="Most Used Languages">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neila-a&layout=compact&count_private=true&theme=default">
-  </a>
+  </a>  
+  <br />
+  <div align="center">
+  <h3>Visitor Count</h3>  
+  <img src="https://profile-counter.glitch.me/neila-a/count.svg" />  
+  </div>
 </p>
 <h4 align="center">Today is 2022 - 11 - 23.</h4>
 <p align="center"> (UTC Time) </p>

@@ -1,6 +1,6 @@
 
 <div align="center">
-    <h3>👋 Hello! I'm neila.</h3>
+    <h3>👋 Hello! I'm Neila.</h3>
     <a href="https://skyline.github.com/neila-a/2022">
         <svg xmlns="http://www.w3.org/2000/svg" width="134" height="32" viewBox="0 0 134 32"
             class="w-24 md:w-auto landscape:w-24">
@@ -11,11 +11,7 @@
     </a>
     <a href="https://github.com/neila-a" title="Neila's GitHub Stats">
         <img
-            src="https://github-readme-stats-mirror.neila.ga/api/?username=neila-a&show_icons=true&count_private=true&theme=default">
-    </a>
-    <br />
-    <a href="https://wakatime.com/@neila" title="Wakatime Stats">
-        <img src="https://github-readme-stats-mirror.neila.ga/api/wakatime?username=@neila">
+            src="https://github-readme-stats-mirror.neila.ga/api/?username=neila-a&count_private=true&theme=default&show_icons=true">
     </a>
     <br />
     <a href="https://github.com/neila-a" title="Most Used Languages">
@@ -23,8 +19,14 @@
             src="https://github-readme-stats-mirror.neila.ga/api/top-langs/?username=neila-a&count_private=true&theme=default">
     </a>
     <br />
-    <h3>Visitor Count</h3>
-    <img src="https://profile-counter.glitch.me/neila-a/count.svg" />
+    <a href="https://wakatime.com/@neila" title="Wakatime Stats">
+        <img src="https://github-readme-stats-mirror.neila.ga/api/wakatime?username=@neila">
+    </a>
+    <br />
+    <!-- Deleted Code
+        <h3>Visitor Count</h3>
+        <img src="https://profile-counter.glitch.me/neila-a/count.svg" />
+    End -->
     <h4>Today is 2022 - 12 - 15.</h4>
     <p> (UTC Time) </p>
 </div>

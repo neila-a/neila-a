@@ -2,9 +2,10 @@
   "name": "neila-a",
   "version": "1.0.0",
   "description": "neila's readme",
-  "main": "index.js",
+  "main": "proc.js",
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "ts-node proc.ts",
+    "clean": "rm README.md"
   },
   "repository": {
     "type": "git",

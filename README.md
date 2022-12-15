@@ -1,9 +1,4 @@
-<%
-    const ghun = "?username=neila-a&";
-    const addr = "https://github-readme-stats-mirror.neila.ga/api/";
-    const cptd = "count_private=true&theme=default";
-    const ghad = "href=\"https://github.com/neila-a\"";
-%>
+
 <div align="center">
     <h3>👋 Hello! I'm neila.</h3>
     <a href="https://skyline.github.com/neila-a/2022">
@@ -14,22 +9,22 @@
             </path>
         </svg>
     </a>
-    <a <%- ghad %> title="Neila's GitHub Stats">
+    <a href="https://github.com/neila-a" title="Neila's GitHub Stats">
         <img
-            src="<%- addr %><%- ghun %>show_icons=true&<%- cptd %>">
+            src="https://github-readme-stats-mirror.neila.ga/api/?username=neila-a&show_icons=true&count_private=true&theme=default">
     </a>
     <br />
     <a href="https://wakatime.com/@neila" title="Wakatime Stats">
-        <img src="<%- addr %>wakatime?username=@neila">
+        <img src="https://github-readme-stats-mirror.neila.ga/api/wakatime?username=@neila">
     </a>
     <br />
-    <a <%- ghad %> title="Most Used Languages">
+    <a href="https://github.com/neila-a" title="Most Used Languages">
         <img
-            src="<%- addr %>top-langs/<%- ghun %><%- cptd %>">
+            src="https://github-readme-stats-mirror.neila.ga/api/top-langs/?username=neila-a&count_private=true&theme=default">
     </a>
     <br />
     <h3>Visitor Count</h3>
     <img src="https://profile-counter.glitch.me/neila-a/count.svg" />
-    <h4>Today is <%- date %>.</h4>
+    <h4>Today is 2022 - 12 - 15.</h4>
     <p> (UTC Time) </p>
 </div>

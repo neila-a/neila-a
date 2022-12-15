@@ -23,14 +23,15 @@ jobs: # 执行的任务
         GH_TOKEN: ${{ secrets.ACCESS_TOKEN }} # 秘钥参数
       run: |- # yaml 语法，「|」下面字符串，每个都换行(\n)。「>」下面字符串，每个不换行（变成空格）。「+」保留最后结尾的换行，「-」表示删除最后结尾的换行。
         npm i
-        node index.js
-        cat README.md
+        npm start
     - name: Commit and push # 更新 readme
       run: |-
-        git diff
         git config --global user.email "neilaspace@outlook.com"
         git config --global user.name "neila-a"
         git pull
         git add -A
         git commit -m "Updated content" || exit 0
         git push
+    - name: Show output
+      run: |-
+        cat README.md

@@ -27,6 +27,6 @@
         <h3>Visitor Count</h3>
         <img src="https://profile-counter.glitch.me/neila-a/count.svg" />
     End -->
-    <h4>Today is 2022 - 01 - 01.</h4>
+    <h4>Today is 2023 - 01 - 02.</h4>
     <p> (UTC Time) </p>
 </div>

@@ -1,8 +1,8 @@
 {
-  "name": "neila-a",
+  "name": "neila-gh-profile",
   "version": "1.0.0",
   "description": "neila's readme",
-  "main": "proc.js",
+  "main": "proc.ts",
   "scripts": {
     "start": "ts-node proc.ts",
     "clean": "rm README.md"
@@ -11,20 +11,20 @@
     "type": "git",
     "url": "git+https://github.com/neila-a/neila-a.git"
   },
-  "author": "neila-a",
-  "license": "GPL",
+  "author": "neila",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/neila-a/neila-a/issues"
   },
   "homepage": "https://github.com/neila-a/neila-a#readme",
   "dependencies": {
-    "@types/ejs": "^3.1.1",
     "ejs": "^3.1.8",
     "fs": "^0.0.1-security",
     "moment": "^2.29.4",
     "ts-node": "^10.9.1"
   },
   "devDependencies": {
+    "@types/ejs": "^3.1.1",
     "@types/node": "^18.11.15"
   }
 }

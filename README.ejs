@@ -1,7 +1,8 @@
 <%
     const ghun = "?username=neila-a&";
-    const addr = "https://github-readme-stats-mirror.neila.ga/api/";
-    const cptd = "theme=default&count_private=true";
+    const addr = "https://github-readme-stats-mirror.neila.vip/api/";
+    const tdcn = "theme=default&count_private="
+    const cptd = `${tdcn}true`;
     const ghad = "href=\"https://github.com/neila-a\"";
 %>
 <div align="center">
@@ -21,7 +22,7 @@
     <br />
     <a <%- ghad %> title="Most Used Languages">
         <img
-            src="<%- addr %>top-langs/<%- ghun %><%- cptd %>">
+            src="<%- addr %>top-langs/<%- ghun %><%- tdcn %>false">
     </a>
     <br />
     <a href="https://wakatime.com/@neila" title="Wakatime Stats">

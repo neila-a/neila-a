@@ -11,41 +11,20 @@
     </a>
     <a href="https://github.com/neila-a" title="Neila's GitHub Stats">
         <img
-<<<<<<< HEAD
-            src="https://github-readme-stats-mirror.neila.ga/api/?username=neila-a&theme=default&count_private=true&show_icons=true">
+            src="https://github-readme-stats-mirror.neila.vip/api/?username=neila-a&theme=default&count_private=true&show_icons=true">
     </a>
     <br />
     <a href="https://github.com/neila-a" title="Most Used Languages">
         <img
-            src="https://github-readme-stats-mirror.neila.ga/api/top-langs/?username=neila-a&theme=default&count_private=false">
+            src="https://github-readme-stats-mirror.neila.vip/api/top-langs/?username=neila-a&theme=default&count_private=false">
     </a>
     <br />
     <a href="https://wakatime.com/@neila" title="Wakatime Stats">
-        <img src="https://github-readme-stats-mirror.neila.ga/api/wakatime?username=@neila">
+        <img src="https://github-readme-stats-mirror.neila.vip/api/wakatime?username=@neila">
     </a>
     <br />
-=======
-            src="https://github-readme-stats-mirror.neila.ga/api/?username=neila-a&count_private=true&theme=default&show_icons=true">
-    </a>
-    <br />
-    <a href="https://github.com/neila-a" title="Most Used Languages">
-        <img
-            src="https://github-readme-stats-mirror.neila.ga/api/top-langs/?username=neila-a&count_private=true&theme=default">
-    </a>
-    <br />
-    <a href="https://wakatime.com/@neila" title="Wakatime Stats">
-        <img src="https://github-readme-stats-mirror.neila.ga/api/wakatime?username=@neila">
-    </a>
-    <br />
->>>>>>> origin/main
     <!-- Deleted Code
         <h3>Visitor Count</h3>
         <img src="https://profile-counter.glitch.me/neila-a/count.svg" />
     End -->
-<<<<<<< HEAD
-    <h4>Today is 2022 - 12 - 16.</h4>
-    <p> (UTC Time) </p>
 </div>
-=======
-</div>
->>>>>>> origin/main

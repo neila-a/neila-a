@@ -1,3 +1,8 @@
-import * as fs from "fs";
-import * as ejs from "ejs";
-fs.writeFileSync('./README.md', ejs.render(fs.readFileSync('./README.ejs').toString()));
+import {
+    render
+} from "ejs";
+import {
+    readFileSync,
+    writeFileSync
+} from "fs";
+writeFileSync('./README.md', render(readFileSync('./README.ejs').toString()));

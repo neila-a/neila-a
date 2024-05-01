@@ -1,0 +1,22 @@
+function basePather() {
+    if git rev-parse --is-inside-work-tree >/dev/null 2>&1
+    then
+        echo "`git rev-parse --show-toplevel`/"
+    else
+        echo "`pwd`/"
+    fi
+}
+
+function childPather() {
+    if git rev-parse --is-inside-work-tree >/dev/null 2>&1
+    then
+        echo `git rev-parse --show-prefix`
+    else
+        echo ""
+    fi
+}
+
+export PROMPT_COMMAND='PS1_CMD1=$(__git_ps1 "%s/")';
+export PS1='\[\e[38;5;45m\]$(basePather)\[\e[0m\]\[\e[38;5;220m\]${PS1_CMD1}\[\e[0m\]\[\e[38;5;208m\]$(childPather)\[\e[0m\]:\[\e[38;5;40m\]\#\n\[\e[38;5;225m\]\A\[\e[0m\]> '
+export PS2="> "
+export PS3="> "
